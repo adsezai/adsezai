@@ -2,11 +2,11 @@
 
 I am a Software Engineer based in Ulm, Germany.
 
-I build Backend Microservices with Node.js and sometimes Frondend stuff with mostly React.
+I build Backend Microservices with Node.js and sometimes frondends with mostly React.
 
 I have gained experience with the following technologies. 
 
-`javascript` `typescript` `Node.js` `React` `Docker` `Traefik` `Next.js` `Mongo` `Express` `typescript` `Git` `Linux` `Electron` `HTML` `CSS`
+`javascript` `typescript` `Node.js` `React` `Docker` `Traefik` `Next.js` `Mongo` `Express` `Git` `Linux` `Electron` `HTML` `CSS`
 
 🤓 I am always interested in trying new technology. Currently I am lerning Golang as well as functional programming.
 
