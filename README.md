@@ -8,7 +8,7 @@ I have gained experience with the following technologies.
 
 `javascript` `typescript` `Node.js` `React` `Docker` `Traefik` `Next.js` `Mongo` `Express` `Git` `Azure` `Linux` `Electron` `HTML` `CSS`
 
-🤓 I am always interested in trying new technology. Currently I am lerning Golang.
+🤓 I am always interested in trying new technology.
 
 I am also learning about algorithms and data structures to make my code fast.🚀⚡ 
 
